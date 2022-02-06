@@ -1,0 +1,15 @@
+{
+  "name": "dynamicwebsites",
+  "version": "1.0.0",
+  "description": "Creating First Dynamic WebSites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sk Arbajuddin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0"
+  }
+}
